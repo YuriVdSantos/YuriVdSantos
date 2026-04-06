@@ -2,9 +2,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00A1E0&height=200&section=header&text=Hi,%20I'm%20Yuri!%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn" width="100%" />
 </div>
 
-<h3 align="center"> Salesforce Developer | Passionate about Backend & Cloud ☁️ </h3>
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuriVdSantos)](https://github.com/YuriVdSantos/github-readme-stats)-->
+
 
 <div align="center">
+<a href="https://github.com/YuriVdSantos">
+
+</div>
+
+<div align="center">
+
+
+<div align="center">
+<h3>📩 Contact Me</h3>
 <a href="https://www.linkedin.com/in/yuridosantos/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
@@ -16,7 +26,43 @@
 </a>
 </div>
 
-👋 About Me
+</br>
+
+<h3>🛠️ My Stack & Tools</h3>
+<table align="center">
+<tr>
+<td align="center" width="50%">
+<h4>Salesforce Ecosystem</h4>
+<img src="https://img.shields.io/badge/Vlocity-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Vlocity" />
+<img src="https://img.shields.io/badge/Apex-172B4D?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
+<img src="https://img.shields.io/badge/LWC-0052CC?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
+</td>
+<td align="center" width="50%">
+<h4>Backend & Languages</h4>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<h4>Frontend</h4>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</td>
+<td align="center" width="50%">
+<h4>Cloud & DevOps</h4>
+<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</td>
+</tr>
+</table>
+
+
+<h3>👋 About Me</h3>
 
 I am a Salesforce Developer focused on creating Service-Oriented Architecture (SOA) integrations and developing scalable components. I have experience with system automation, DevOps, and developing custom business logic to improve commercial processes and enhance customer experience.
 
@@ -40,52 +86,5 @@ Right now, I'm diving deep into:
 
 ☁️ Advanced Salesforce ecosystem (Apex, LWC, Flows, and complex integrations).
 
-🛠️ My Stack & Tools
-
-<div align="center">
-
-<h4>Salesforce Ecosystem</h4>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" alt="Salesforce" />
-<img src="https://img.shields.io/badge/Apex-172B4D?style=for-the-badge&logo=salesforce&logoColor=white" alt="Apex" />
-<img src="https://img.shields.io/badge/LWC-0052CC?style=for-the-badge&logo=salesforce&logoColor=white" alt="LWC" />
-
-<h4>Backend & Languages</h4>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-<h4>Frontend</h4>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-
-<h4>Cloud & DevOps</h4>
-<img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-
-</div>
-
-📊 GitHub Analytics
-
-<div align="center">
-<a href="https://github.com/YuriVdSantos">
-<img height="165" src="https://github-readme-stats.vercel.app/api%3Fusername%3DYuriVdSantos%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00A1E0%26text_color%3Dffffff" alt="Yuri's Stats" />
-</a>
-<a href="https://github.com/YuriVdSantos">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYuriVdSantos%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00A1E0%26text_color%3Dffffff%26langs_count%3D6" alt="Top Languages" />
-</a>
-</div>
-
-<div align="center">
-<i>"Quality is not an act, it is a habit."</i>
-
-
-
-
-
-
-
-<img src="https://media.giphy.com/media/qgQUggCGfGYcg/giphy.gif" width="120" alt="Coding GIF">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHN1d2d1dWJuaWE1bmM5bWVwYzd0MHhjaDRxazUzZjhvYmJqZXY2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="120" alt="Coding GIF">
 </div>
