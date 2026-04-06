@@ -67,14 +67,14 @@ Right now, I'm diving deep into:
 
 </div>
 
-📊 GitHub Stats
+📊 GitHub Analytics
 
 <div align="center">
 <a href="https://github.com/YuriVdSantos">
-<img src="https://github-readme-stats.vercel.app/api?username=YuriVdSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" alt="Yuri's Stats" height="150" />
+<img height="165" src="https://github-readme-stats.vercel.app/api%3Fusername%3DYuriVdSantos%26show_icons%3Dtrue%26theme%3Ddracula%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00A1E0%26text_color%3Dffffff" alt="Yuri's Stats" />
 </a>
 <a href="https://github.com/YuriVdSantos">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriVdSantos&layout=compact&theme=dracula&hide_border=true&langs_count=6" alt="Top Languages" height="150" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYuriVdSantos%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D00A1E0%26text_color%3Dffffff%26langs_count%3D6" alt="Top Languages" />
 </a>
 </div>
 
@@ -87,5 +87,5 @@ Right now, I'm diving deep into:
 
 
 
-<img src="https://media.giphy.com/media/qgQUggCGfGYcg/giphy.gif" width="150" alt="Coding GIF">
+<img src="https://media.giphy.com/media/qgQUggCGfGYcg/giphy.gif" width="120" alt="Coding GIF">
 </div>
